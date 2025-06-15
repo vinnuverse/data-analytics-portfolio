@@ -4,8 +4,9 @@ This SQL project demonstrates retail sales analysis using a small relational dat
 
 ---
 
-## 🧱 Database Structure
+## 🧱 Database Structure 
 
+Data File - [https://docs.google.com/spreadsheets/d/1AwrdP5DyT0oBwiUP8ekNMWP_X7chWMBnvVjj_C1BQMQ/edit?gid=1490785302#gid=1490785302](url)
 Three tables were created for this project:
 
 ### 1. `customers`
