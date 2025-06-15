@@ -27,8 +27,6 @@ plt.ylabel("New Cases per Million")
 plt.title("Daily New COVID‑19 Cases per Million (Global)")
 plt.legend()
 plt.tight_layout()
-plt.show()
-
 # 4. Bar chart: Total cases per million (latest date)
 latest = df2[df2["date"] == df2["date"].max()]
 latest_totals = latest.groupby("location")["total_cases_per_million"].max().sort_values(ascending=False)
