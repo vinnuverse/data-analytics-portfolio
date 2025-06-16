@@ -1,74 +1,49 @@
-# 📊 Data Analytics Portfolio
+# 👋 Hi, I’m Tiwari Shivanand
 
-Welcome to my personal data analytics portfolio built using **Python** and **SQL**.  
-Each project simulates real-world business problems and demonstrates data analysis, querying, and visualization skills.
+A **data-driven operations specialist** turned **data analyst**, with deep roots in e-commerce and a strong pivot into analytics. I’ve streamlined CRM, returns, and dispute processes at platforms like **ONDC** and **MyStore**, and now I bring that real-world experience into crafting insightful data stories using **Python** and **SQL**.
 
----
+## 🌐 My Portfolio
 
-## 🧰 Tech Stack
+🚀 **GitHub Pages:** [shivanandtiwari.github.io](https://vinnuverse.github.io/shivanandtiwari.github.io/)
 
-- **Languages**: Python, SQL
-- **Tools**: Pandas, Matplotlib, Seaborn, SQLite, VS Code, Git
-- **Platform**: macOS (M1), GitHub, Terminal
+Explore interactive, mobile-first data projects with filters by language and domain. Whether you're a recruiter, hiring manager, or fellow analyst, you'll find a clean showcase of work that blends technical skills with business intuition.
 
----
+## 🧰 Tools & Stack
 
-## ✅ Completed Projects Overview
+**Languages:**  
+Python, SQL, HTML, CSS
 
-| Project # | Project Name                      | Stack Used | Status     | Description |
-|-----------|-----------------------------------|------------|------------|-------------|
-| 1         | COVID-19 Data Analysis            | Python     | ✅ Complete | Analyze COVID-19 trends across countries with visualization |
-| 2         | Titanic Survival Analysis (EDA)   | Python     | ✅ Complete | Explore Titanic survival factors using EDA and graphs |
-| 3         | Sales Database Analysis           | SQL        | ✅ Complete | Query and summarize sales, revenue, and performance metrics |
-| 4         | Indian E-Commerce Order Analysis  | SQL        | ✅ Complete | Analyze 100k+ order records for trends, top SKUs, shipping time |
+**Libraries & Frameworks:**  
+Pandas, Matplotlib, Seaborn, Plotly, SQLite
 
----
+**Tools:**  
+VS Code, Git/GitHub, Google Sheets
 
-## 🐍 Python Projects
-
-### 📌 Project 1: COVID-19 Data Analysis
-
-- 📁 `Python/project1_covid_analysis`
-- 📄 Dataset: `covid_selected_countries.csv`
-- 📊 Libraries: `pandas`, `matplotlib`
-- 🔍 Focus: Time-series comparison of COVID-19 cases, deaths, recoveries
+**Domains:**  
+E-commerce Analytics, CRM Management, Returns/Disputes, Voice Commerce (MyStore Genie)
 
 ---
 
-### 📌 Project 2: Titanic Survival EDA
+## 📁 Featured Projects
 
-- 📁 `Python/project2_titanic_analysis`
-- 📄 Dataset: `train.csv` (Kaggle Titanic)
-- 📊 Libraries: `pandas`, `matplotlib`, `seaborn`
-- 🔍 Focus: Explore how class, age, sex influenced survival probability
-
----
-
-## 🧠 SQL Projects
-
-### 📌 Project 3: Sales Database Analysis
-
-- 📁 `SQL/project1_sales_analysis`
-- 🗃️ Database: `sales.db`
-- 🔍 Queries: Total sales, customers by city, monthly revenue, product breakdown
+| Project | Domain | Tools |
+|--------|--------|-------|
+| [COVID-19 Data Analysis](https://github.com/vinnuverse/data-analytics-portfolio/tree/main/Python/project1_covid_analysis) | Public Health | Python, Pandas, Matplotlib |
+| [Titanic Survival EDA](https://github.com/vinnuverse/data-analytics-portfolio/tree/main/Python/project2_titanic_analysis) | Exploratory Analysis | Python, Pandas |
+| [Sales Insights with SQL](https://github.com/vinnuverse/data-analytics-portfolio/tree/main/SQL/project1_sales_analysis) | Retail Analytics | SQLite, SQL |
+| [India E-commerce Order Analysis](https://github.com/vinnuverse/data-analytics-portfolio/tree/main/SQL/project2_india_ecommerce) | E-commerce Ops | SQL, Pandas |
 
 ---
 
-### 📌 Project 4: Indian E-Commerce Orders
+## 🚀 Mission Statement
 
-- 📁 `SQL/project2_india_ecommerce`
-- 📄 Dataset: `orders.csv` (100,000+ records)
-- 🔍 Queries: Unique orders, top SKUs, monthly trends, shipping delay averages
-
----
-
-## 🔗 Author & Links
-
-**Tiwari Shivanand**  
-📍 India  
-🔗 [GitHub: @vinnuverse](https://github.com/vinnuverse)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tiwari-shivanand-mystore)
+> To combine the operational intuition of an e-commerce manager  
+> with the analytical mindset of a data scientist —  
+> solving business problems with clarity, code, and creativity.
 
 ---
 
-> ⚡ This portfolio demonstrates my end-to-end capabilities in exploring datasets, writing clean code, and producing insights from raw data.
+## 📫 Let’s Connect
+
+🔗 [LinkedIn: Tiwari Shivanand](https://www.linkedin.com/in/tiwari-shivanand-mystore)  
+📧 Reach out via portfolio: [shivanandtiwari.github.io](https://vinnuverse.github.io/shivanandtiwari.github.io/)
